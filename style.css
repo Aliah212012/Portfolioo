@@ -1,0 +1,15 @@
+body {
+    font-family: sans-serif;
+}
+
+html {
+    background-color: hotpink;
+}
+
+a {
+    color:hotpink;
+}
+
+img {
+    border:3px solid hotpink;
+}
